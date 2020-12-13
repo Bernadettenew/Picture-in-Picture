@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "..\\js-bootcamp\\functions"
+		},
+		{
+			"path": "..\\js-bootcamp\\basics"
+		},
+		{
+			"path": "..\\js-bootcamp\\objects"
+		},
+		{
+			"path": "..\\js-bootcamp\\notes-app"
+		},
+		{
+			"path": "..\\js-bootcamp\\todo-app"
+		},
+		{
+			"path": "..\\Webpage design project"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\quote-generator"
+		}
+	],
+	"settings": {
+		"editor.formatOnSave": true,
+		"liveServer.settings.multiRootWorkspaceName": "quote-generator"
+	}
+}
